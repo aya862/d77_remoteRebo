@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("Aya test1");
+    printf("Aya Test1");
 
     return 0;
 }
